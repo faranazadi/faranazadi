@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faranazadi
 - 👀 I’m interested in all things infrastructure and automation.
-- 🌱 I’m currently using and learning a combination of: PowerShell, Terraform, Ansible, Python, Docker and Bash.
-<!--- - 💞️ I’m looking to collaborate on 
+<!--- - 🌱 I’m currently using and learning a combination of: PowerShell, Terraform, Ansible, Python, Docker and Bash.
+ - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... ---> 
 
 <!---
